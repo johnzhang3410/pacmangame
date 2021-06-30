@@ -1,10 +1,7 @@
 ﻿Public Class Level1
 
     ' John Zhang
-    ' Programming 11
-    ' January 6, 2020
     ' PacMan Project
-    ' To do: Add all 4 ghosts 4 level 1, then load level 2 and 3
 
     ' Attributes to describe Pacman
 #Region "Dims"
