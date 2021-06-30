@@ -1,10 +1,7 @@
 ﻿Public Class Level3
 
         ' John Zhang
-        ' Programming 11
-        ' January 6, 2019
         ' PacMan Project
-    ' To do: Debug, Ghost3 move to weird location after being eaten, Life bug, Start level
 
         ' Attributes to describe Pacman
 #Region "Dims"
